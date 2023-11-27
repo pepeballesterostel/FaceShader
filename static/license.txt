@@ -1,0 +1,11 @@
+Model Information:
+* title:	Face
+* source:	https://sketchfab.com/3d-models/face-0e28f1f1b8a241489a8c00660de8d567
+* author:	Thunk3D scanner (https://sketchfab.com/Diana123456)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Face" (https://sketchfab.com/3d-models/face-0e28f1f1b8a241489a8c00660de8d567) by Thunk3D scanner (https://sketchfab.com/Diana123456) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
