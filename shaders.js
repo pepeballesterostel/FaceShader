@@ -3,6 +3,11 @@
     This file loads an obj file and renders the mesh using shaders in GLSL.
     Change the file name to this scripts name in html to compile this functionality. 
     Open the web console for js with Ctrl + Shift + I
+    Run server with npm run dev command
+
+    To do: 
+    - Fix the reset position button and place it right behind the image of the painting
+    - Flat and Gouraud still looks the same
 
     Author: Pepe Ballesteros
 */

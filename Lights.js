@@ -2,6 +2,8 @@
 
     This file loads an obj file and renders the mesh with different light types and parameters.
     Change the file name to this scripts name in html to compile this functionality. 
+    Run server with npm run dev command
+    Open the web console for js with Ctrl + Shift + I
 
 */
 import * as THREE from 'three';
